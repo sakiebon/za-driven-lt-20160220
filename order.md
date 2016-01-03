@@ -3,3 +3,4 @@
 | もじゃ変                         | TBD                                                               |
 | きよくらならみ                   | TBD                                                               |
 | nitro                            | TBD                                                               |
+| Midori Ikegami                   | TBD                                                               |
