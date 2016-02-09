@@ -7,3 +7,4 @@
 | Sakie Muneyasu                   | TBD                                                               |
 | Etsushi Iki                      | TBD                                                               |
 | みずき                           | TBD                                                               |
+| ryosms                           | GitHubについて                                                    |
