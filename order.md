@@ -8,3 +8,4 @@
 | Etsushi Iki                      | TBD                                                               |
 | みずき                           | TBD                                                               |
 | ryosms                           | GitHubについて                                                    |
+| Takafumi Yoshida                 | TBD                                                               |
