@@ -6,3 +6,4 @@
 | Midori Ikegami                   | TBD                                                               |
 | Sakie Muneyasu                   | TBD                                                               |
 | Etsushi Iki                      | TBD                                                               |
+| みずき                           | TBD                                                               |
