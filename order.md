@@ -10,3 +10,4 @@
 | ryosms                           | GitHubについて                                                    |
 | Takafumi Yoshida                 | TBD                                                               |
 | @kio MIW@                        | ある楽器について                                                  |
+| tsuda.a                          | GitHubについて                                                    |
