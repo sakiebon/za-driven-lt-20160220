@@ -4,7 +4,7 @@
 | きよくらならみ                   | TBD                                                               |
 | nitro                            | クラフトビール入門                                                |
 | Midori Ikegami                   | TBD                                                               |
-| Sakie Muneyasu                   | TBD                                                               |
+| Sakie Muneyasu                   | 続・猟銃女子                                                      |
 | Etsushi Iki                      | TBD                                                               |
 | みずき                           | TBD                                                               |
 | ryosms                           | GitHubについて                                                    |
